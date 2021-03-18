@@ -1,26 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
+import Header from './components/structure/header/Header';
+import Experience from "./components/structure/experience/Experience";
+import Skills from "./components/structure/skills/Skills";
+import Footer from './components/structure/footer/Footer';
 import './App.css';
+import './bulma-timeline.min.css';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className="App has-background-warning-light">
+            <Header></Header>
+            <Experience></Experience>
+            <Skills></Skills>
+            <Footer></Footer>
+        </div>
+    );
 }
 
 export default App;

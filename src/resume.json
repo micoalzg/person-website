@@ -1,0 +1,95 @@
+{
+    "info": {
+        "firstName": "Michael",
+        "lastName": "Zhang",
+        "birthDate": "September 1998",
+        "description": "I'm a 4th year Computer Science student at the University of Toronto St. G. I'll be graduating May-ish 2021, currently looking for future opportunities (nudge nudge) 🙂. I have passion for Machine Learning, A.I and enjoy developing web/mobile applications."
+    },
+    "tags": [
+        "Gamer", "Brother", "Travaller", "Athelete"
+    ],
+    "socials": {
+        "insta": "https://www.instagram.com/micoal.zg",
+        "linkedin": "https://www.linkedin.com/in/michaelzg1998",
+        "github": "https://www.github.com/micoalzg"
+    },
+    "timeline": [
+        {
+            "title": "Could be you",
+            "type": "header"
+        },
+        {
+            "company": "",
+            "startDate": "",
+            "endDate": "",
+            "position": "",
+            "summary": "",
+            "type": ""
+        },
+        {
+            "company": "Accedo.tv",
+            "startDate": "September 2019",
+            "endDate": "September 2020",
+            "position": "Software Engineer (Co-op)",
+            "summary": "Worked on several JavaScript projects on connected devices such as Sansung, LG, Enseo, and Playstation. Developed an alert system for Apogee streaming application with AngularJs that is used by hundreds of schools across America. Ported Showtime OTT and Anytime appliction to Enseo and Playstation devices. ",
+            "type": "job"
+        },
+        {
+            "title": "2019",
+            "type": "sub-header"
+        },
+        {
+            "company": "Ocean Sales, LLC",
+            "startDate": "Augest 2017",
+            "endDate": "September 2017",
+            "position": "Sales Associate & Cashier",
+            "summary": "Tasked with explaining RFID technology to customers. Performed demonstrations for customers. Interacted with customers, managed inventory and assembly of product.",
+            "type": "job"
+        },
+        {
+            "title": "2017",
+            "type": "sub-header"
+        },
+        {
+            "company": "Interatlatic Sales",
+            "startDate": "Augest 2016",
+            "endDate": "September 2016",
+            "position": "Sales Associate & Cashier",
+            "summary": "Performed product demonstrations for potential customers. Handled sale transactions. Achieved highest total sales among competitors",
+            "type": "job"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python",
+            "experience": 90.000,
+            "level": "Advance"
+        },
+        {
+            "name": "JavaScript",
+            "experience": 90.000,
+            "level": "Advance"
+        },
+        {
+            "name": "Java",
+            "experience": 87.000,
+            "level": "Advance"
+        },
+        {
+            "name": "C",
+            "experience": 75.000,
+            "level": "Intermediate"
+        },
+        {
+            "name": "ReactJs",
+            "experience": 75.000,
+            "level": "Intermediate"
+        },
+        {
+            "name": "AngularJs",
+            "experience": 70.000,
+            "level": "Intermediate"
+        }
+    ]
+
+}
