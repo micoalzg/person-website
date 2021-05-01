@@ -1,3 +1,7 @@
+# CURRENTLY NOT HOSTED, IF YOU WOULD LIKE TO RUN FOLLOW INSTRUCTIONS BELOW. 
+
+Website uses resume.json to fill website content
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
