@@ -3,7 +3,7 @@
         "firstName": "Michael",
         "lastName": "Zhang",
         "birthDate": "September 1998",
-        "description": "I'm a 4th year Computer Science student at the University of Toronto St. G. I'll be graduating May-ish 2021, currently looking for future opportunities (nudge nudge) 🙂. I have passion for Machine Learning, A.I and enjoy developing web/mobile applications."
+        "description": "I'm a 4th year Computer Science student at the University of Toronto St. G. I graduated June 2021 and am currently looking for future opportunities (nudge nudge) 🙂. I have a passion for Machine Learning, A.I and enjoy developing web/mobile applications."
     },
     "tags": [
         "Gamer", "Programmer", "Traveller", "Athelete"
@@ -31,7 +31,7 @@
             "startDate": "September 2019",
             "endDate": "September 2020",
             "position": "Software Engineer (Co-op)",
-            "summary": "Worked on several JavaScript projects on connected devices such as Sansung, LG, Enseo, and Playstation. Developed an alert system for Apogee streaming application with AngularJs that is used by hundreds of schools across America. Ported Showtime OTT and Anytime appliction to Enseo and Playstation devices. ",
+            "summary": "Worked on several JavaScript projects on connected devices such as Samsung, LG, Enseo, and Playstation. Developed an alert system for Apogee streaming application with AngularJs that is used by hundreds of schools across America. Ported Showtime OTT and Anytime appliction to Enseo and Playstation devices. ",
             "type": "job"
         },
         {
@@ -51,7 +51,7 @@
             "type": "sub-header"
         },
         {
-            "company": "Interatlatic Sales",
+            "company": "Interatlantic Sales",
             "startDate": "Augest 2016",
             "endDate": "September 2016",
             "position": "Sales Associate & Cashier",
@@ -63,17 +63,17 @@
         {
             "name": "Python",
             "experience": 90.000,
-            "level": "Advance"
+            "level": "Advanced"
         },
         {
             "name": "JavaScript",
             "experience": 90.000,
-            "level": "Advance"
+            "level": "Advanced"
         },
         {
             "name": "Java",
             "experience": 87.000,
-            "level": "Advance"
+            "level": "Advanced"
         },
         {
             "name": "C",
