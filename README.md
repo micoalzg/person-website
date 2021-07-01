@@ -1,4 +1,4 @@
-# CURRENTLY NOT HOSTED, IF YOU WOULD LIKE TO RUN FOLLOW INSTRUCTIONS BELOW. 
+# https://micoalzg.github.io/personal-website/
 
 Website uses resume.json to fill website content
 
