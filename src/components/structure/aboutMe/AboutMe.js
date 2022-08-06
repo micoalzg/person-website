@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import Resume from "../../../resume.json";
+import SmileyFace from './images/smilingface.png';
+import KissingFace from './images/kissingface.png';
+
 
 class AboutMe extends Component {
 
@@ -12,10 +15,10 @@ class AboutMe extends Component {
       <div className="container">
         <img 
           alt="THATS ME"
-          src={this.state.hovered ? "public/images/kissingface.png" : "public/images/smilingface.png"}
+          src={this.state.hovered ? KissingFace : SmileyFace}
           onMouseEnter={() => this.setState({hovered: true})}
           onMouseLeave={() => this.setState({hovered: false})}
-          ></img>
+        />
         <br></br>
         <br></br>
         <h1 className="title">
