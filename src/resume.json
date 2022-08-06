@@ -3,10 +3,13 @@
         "firstName": "Michael",
         "lastName": "Zhang",
         "birthDate": "September 1998",
-        "description": "I'm a 4th year Computer Science student at the University of Toronto St. G. I graduated June 2021 and am currently looking for future opportunities (nudge nudge) 🙂. I have a passion for Machine Learning, A.I and enjoy developing web/mobile applications."
+        "description": "Hey there, how are you doing?... You're probably wondering how you found yourself here. Well, it probably means I'm unemployed or looking for a new position. So, let me tell you a little about myself. I graduated back in 2021 amid COVID-19. I'm currently working as a Software Engineer for an AI-powered resource management software company called Mosaic (yes the logo is a copy of Polaroid's logo 😅). I do fun stuff like build new features and fix bugs (I KNOW SO FUN). I mainly work with React and Redux. Recently, I was moved on to the backend team and have been scouring StackOverflow for Rails help. During my free time (I don't have much right now) I enjoy weight lifting, playing video games, listening to music, and most importantly eating food. I hope this wall of text gives you the willpower to scroll down and look at the cool timeline."
     },
     "tags": [
-        "Gamer", "Programmer", "Traveller", "Athlete"
+        "Gamer",
+        "Programmer",
+        "Traveller",
+        "Athlete"
     ],
     "socials": {
         "insta": "https://www.instagram.com/micoal.zg",
@@ -19,12 +22,12 @@
             "type": "header"
         },
         {
-            "company": "",
-            "startDate": "",
-            "endDate": "",
-            "position": "",
-            "summary": "",
-            "type": ""
+            "company": "Mosaic",
+            "startDate": "September 2021",
+            "endDate": "September 2022",
+            "position": "Software Engineer",
+            "summary": "Built and maintained features providing information regarding the outlook of businesses. I started as a front-end developer, but was moved to the back-end mid 2022. On the front end I was responsible for building reusuable components with React and managing application state with Redux, I worked with middleware libraries such as redux-saga, and redux-thunk. On the backend I worked with Rails operating on a PostgresSQL server databases.",
+            "type": "job"
         },
         {
             "company": "Accedo.tv",
@@ -61,9 +64,9 @@
     ],
     "skills": [
         {
-            "name": "Python",
-            "experience": 90.000,
-            "level": "Advanced"
+            "name": "React",
+            "experience": 94,
+            "level": "Expert"
         },
         {
             "name": "JavaScript",
@@ -71,25 +74,29 @@
             "level": "Advanced"
         },
         {
+            "name": "Rails",
+            "experience": 80.000,
+            "level": "Intemediate - Advanced"
+        },
+        {
+            "name": "Python",
+            "experience": 80.000,
+            "level": "Intemediate - Advanced"
+        },
+        {
             "name": "Java",
-            "experience": 87.000,
-            "level": "Advanced"
+            "experience": 80.000,
+            "level": "Intermediate"
         },
         {
             "name": "C",
-            "experience": 75.000,
-            "level": "Intermediate"
-        },
-        {
-            "name": "ReactJs",
-            "experience": 75.000,
-            "level": "Intermediate"
+            "experience": 30.000,
+            "level": "Forgot but can pick back up"
         },
         {
             "name": "AngularJs",
-            "experience": 70.000,
-            "level": "Intermediate"
+            "experience": 30.000,
+            "level": "Forgot but can pick back up"
         }
     ]
-
 }
